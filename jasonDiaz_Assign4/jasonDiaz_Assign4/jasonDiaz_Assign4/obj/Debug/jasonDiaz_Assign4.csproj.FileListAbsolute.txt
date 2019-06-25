@@ -1,0 +1,17 @@
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\bin\Debug\jasonDiaz_Assign4.exe
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\bin\Debug\jasonDiaz_Assign4.pdb
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\obj\Debug\jasonDiaz_Assign4.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\obj\Debug\MainWindow.g.cs
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\obj\Debug\App.g.cs
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\obj\Debug\jasonDiaz_Assign4_MarkupCompile.cache
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\obj\Debug\jasonDiaz_Assign4_MarkupCompile.lref
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\obj\Debug\MainWindow.baml
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\obj\Debug\jasonDiaz_Assign4.g.resources
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\obj\Debug\jasonDiaz_Assign4.Properties.Resources.resources
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\obj\Debug\jasonDiaz_Assign4.csproj.GenerateResource.cache
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\obj\Debug\jasonDiaz_Assign4.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\obj\Debug\jasonDiaz_Assign4.exe
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\obj\Debug\jasonDiaz_Assign4.pdb
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\bin\Debug\CountryDataLibrary.dll
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\bin\Debug\CountryDataLibrary.pdb
+C:\Users\jason\source\repos\jasonDiaz_Assign4\jasonDiaz_Assign4\obj\Debug\jasonDiaz_Assign4.csproj.CopyComplete
